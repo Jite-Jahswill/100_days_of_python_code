@@ -82,7 +82,8 @@ def drink_potion():
     print(potion_strength)
 
 drink_potion()
-print(potion_strength)
+
+# print(potion_strength)
 
 # Global Scope
 player_health = 10
